@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title_id: 
+  description: MyText
+  order: 1
+  recipe_id: 
+
+two:
+  title_id: 
+  description: MyText
+  order: 1
+  recipe_id: 
